@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+}
+
+header{
+    border: solid black 1px;
+}
+
+h1{
+    border: dotted red 3px;
+}
+
+h2{
+     border: dotted red 3px;
+}
+
+section{
+    border: dashed blue;
+    padding: 10px;
+    margin: 30px 0;
+}
+
+article{
+    padding: 10px;
+    margin: 30px 0;
+}
+
+body{
+    padding: 20px;
+}
